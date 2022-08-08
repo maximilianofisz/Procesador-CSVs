@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProcesadorCSV/1.0.0": {
+        "dependencies": {
+          "LibreriaSocios": "1.0.0"
+        },
+        "runtime": {
+          "ProcesadorCSV.dll": {}
+        }
+      },
+      "LibreriaSocios/1.0.0": {
+        "runtime": {
+          "LibreriaSocios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcesadorCSV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaSocios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

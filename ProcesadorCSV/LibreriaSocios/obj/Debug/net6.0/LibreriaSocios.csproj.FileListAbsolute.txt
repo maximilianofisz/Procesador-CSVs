@@ -1,0 +1,12 @@
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\bin\Debug\net6.0\LibreriaSocios.deps.json
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\bin\Debug\net6.0\LibreriaSocios.dll
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\bin\Debug\net6.0\LibreriaSocios.pdb
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\LibreriaSocios.csproj.AssemblyReference.cache
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\LibreriaSocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\LibreriaSocios.AssemblyInfoInputs.cache
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\LibreriaSocios.AssemblyInfo.cs
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\LibreriaSocios.csproj.CoreCompileInputs.cache
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\LibreriaSocios.dll
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\refint\LibreriaSocios.dll
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\LibreriaSocios.pdb
+E:\Source\Procesador-CSVs\ProcesadorCSV\LibreriaSocios\obj\Debug\net6.0\ref\LibreriaSocios.dll
