@@ -1,4 +1,5 @@
-﻿string path = "C:\\Users\\54112\\Desktop\\socios.csv"; //IMPORTANTE!!! Añada aqui el path absoluto al archivo .csv
+﻿Console.WriteLine("Por favor escribir la ruta absoluta del archivo .csv");
+string path = Console.ReadLine();
 
 LibreriaSocios.SocioHelper helper = new LibreriaSocios.SocioHelper(path);
 
