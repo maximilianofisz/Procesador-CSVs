@@ -5,6 +5,7 @@ TODO:
 * Poner mas lindo el menu interactivo.
 * Arreglar tildes.
 * redondear promedios a dos decimales.
+* Agregar gitignore
 
 ## Instrucciones de uso
 * Clonar el repositorio entero.
